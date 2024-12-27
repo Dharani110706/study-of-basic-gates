@@ -1,4 +1,4 @@
-![Screenshot (8)](https://github.com/user-attachments/assets/0223d9a9-8f39-4661-80c4-4b0e53afdf86)### study-of-basic-gates
+
 
 **AIM:** 
 
@@ -92,7 +92,8 @@ endmodule
 ![Screenshot (5)](https://github.com/user-attachments/assets/46746f49-184f-45f1-8ef2-1685b907cb4b)
 
 **Output:**
-![Screenshot (8)](https://github.com/user-attachments/assets/97c7f4cc-c185-4113-91d5-94a989cc3e7e)
+![image](https://github.com/user-attachments/assets/87c02e20-ce71-4c01-a3cd-11cf6c79cc69)
+
 
 **Result:**
 The truth table of the logic gates in Quartus II using verilog programming is verified.
